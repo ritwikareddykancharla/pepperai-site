@@ -1,0 +1,1 @@
+Binary course image assets are committed in this directory.
